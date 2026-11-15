@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-compile component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-compile"
+name = "sigmaos_archlinux_compile"
 path = "src/lib.rs"
