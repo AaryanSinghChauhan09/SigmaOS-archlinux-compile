@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-compile"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-compile component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
